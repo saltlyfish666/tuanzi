@@ -1,0 +1,21 @@
+# 运行时与私密
+config/config.json
+config.json
+memory/
+*.log
+flags/
+status.json
+
+# Python
+__pycache__/
+*.pyc
+
+# 备份与临时
+*.bak*
+*.pre_*
+*.tmp
+_sheet_src/
+
+# 系统
+.DS_Store
+Thumbs.db
